@@ -1,0 +1,20 @@
+http://24h.pchome.com.tw/prod/DSAA6I-A9005E8S7?q=/S/DSAA04#123
+
+
+●主要規格 
+．處理器：Intel Core i7-4790處理器(3.6 GHz,8 MB cache,1600MHz FSB, Turbo to 4.0GHz,4核心/8 threads) 
+．晶片組：Intel B85 Express chipset 
+．記憶體：8G DDR3-1600/2 條 DDR3 插槽，最高可支援 16GB/支援 DDR3 1600/ 1333/ 1066 MHz/雙通道記憶體架構 
+．硬碟：1TB SATA3 7200RPM 
+．顯示卡：MSI N750 Ti GAMING /DDR5/2G電競顯卡 (GeForce GTX 750 Ti) 
+．光碟機：Slim Type Slot-in DVD Super Multi燒錄機 
+．作業系統：Windows 7 Home Premium 64bit 
+●其它規格 
+‧音效晶片：7.1 Channel High Definition Audio/Supports S/PDIF output 
+‧網路 (RJ45)：1x Killer E2205 Gigabit LAN controller 
+‧Power Supply：350W 80 Plus 銅牌 
+●連接端子 
+‧輸出/輸入：Rear:1 x PS/2,1 x Clear CMOS Butteon,1 x eSATA ,1 x DVI-I,1 x HDMI,1 x DisplayPort 
+‧USB：Rear: Rear: 4xUSB 2.0, 2xUSB 3.0 / Front: 2xUSB2.0, 2xUSB3.0 
+●機體規格： 
+‧體積：345.8 x 277.3 x 175.7 mm
